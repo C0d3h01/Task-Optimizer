@@ -1,6 +1,8 @@
 ### Task Optimizer.
 
-## Version:1.1.0
+## Version:1.1.3
 
 ### Changelog:
-~ The script optimizes system performance by adjusting CPU affinity, process priorities, and IRQ affinities. It prioritizes critical tasks on performance cores and less important tasks on power-saving cores. It enhances responsiveness and efficiency through fine-tuning resource allocation and task scheduling.
+~ Fixed heat problem in some devices
+~ Added more functions to perform more accurate.
+~ Reworked on script.
