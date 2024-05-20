@@ -1,8 +1,6 @@
-### Task Optimizer.
-
-## Version:1.1.3
-
-### Changelog:
-~ Fixed heat problem in some devices
-~ Added more functions to perform more accurate.
-~ Reworked on script.
+### v:1.1.5 Changelog:
+- improved renice priority.
+- improved functions.
+- reworked on affinity.
+- implemented more functions.
+- rewritten for more Improve accuracy.
